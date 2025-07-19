@@ -6,19 +6,6 @@ Dataset Used:-
 <a href=[https://github.com/Raghvendrasingh23-code/Data-analysis-ExcelDashboard/blob/main/bussiness%20project.xlsx](https://github.com/Raghvendrasingh23-code/Data_analysis_olympic-dashboard/blob/main/dataset/Olympics%20Dataset.xlsx)>Dataset</a>
 
 Dashboard Interaction:-
-View Dashboard
+<a href = https://github.com/Raghvendrasingh23-code/Data_analysis_olympic-dashboard/blob/main/dataset/data%20pro.pbix>View Dashboard</a>
 
-Process Overview:-
-Data Collection Imported ecommerce sales data with fields like Order Date, Product, Sales, Quantity, Profit, and Region.
-Data Cleaning Removed duplicates, fixed date formats, and created calculated columns (e.g., Profit Margin, Year-Month).
-Data Modeling Converted raw data into Excel Tables and created helper columns for better analysis.
-Pivot Tables Built Pivot Tables for Sales, Profit, Category performance, Monthly trends, and Top products.
-Dashboard Design Created a clean dashboard with KPIs, Pivot Charts, Slicers (filters), and interactive visuals.
-Interactivity Linked all charts to slicers (Region, Category, Date) for dynamic filtering.
-Testing & Final Touches Verified data accuracy, locked layout, and cleaned up the workbook for final use.
-KPIs Used
-Total Sales Total revenue generated from all orders. =SUM(Sales)
-Total Profit Sum of all profits earned. =SUM(Profit)
-Total Orders Count of unique order IDs. =COUNTA(Order ID)
-Total Quantity Sold Total units sold across all products. =SUM(Quantity)
-Profit Margin % Percentage of profit relative to sales. =Total Profit / Total Sales
+
